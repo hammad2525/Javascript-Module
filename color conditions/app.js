@@ -10,6 +10,9 @@
     else if (color == "red") {
         alert("red color is matched");
     }
+    else if (color == "brown") {
+        alert("red color is matched");
+    }
     else {
         alert("color is not matched");
     }
